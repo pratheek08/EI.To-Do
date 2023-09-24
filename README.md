@@ -22,7 +22,18 @@ I have created a simple To-Do List Manager using java where users can add tasks,
 <img width="260" alt="image" src="https://github.com/pratheek08/EI.To-Do/assets/83898956/d9f904ad-b7d3-41fa-a45e-5865b556533f">
 <img width="261" alt="image" src="https://github.com/pratheek08/EI.To-Do/assets/83898956/737a1a40-b97d-4d4e-b637-db1e265c33e1">
 
-```
-
-```
-
+## Installation and usage:
+Make sure Java Development Kit (JDK) installed on your machine.
+1. Clone the repository:
+   ```
+   https://github.com/pratheek08/EI.To-Do
+   ```
+2. Compile and run java file(Task.java)
+   ```
+   javac Task.java
+   ```
+   ```
+   java Task
+   ```
+  Then the will execute in the  terminal
+  Thank You!
