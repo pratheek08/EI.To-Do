@@ -35,5 +35,4 @@ Make sure Java Development Kit (JDK) installed on your machine.
    ```
    java Task
    ```
-  Then the will execute in the  terminal
-  Thank You!
+ ## Happy Coding :)
